@@ -95,4 +95,9 @@ def assign2(grudge_list_1):
             if key not in van1:
                 van1.append(key)
     return van1, van2
-print(assign2(grudge_list_2))
+#usage
+#print(assign(grudge_list_1)
+#print(assign(grudge_list_2))
+# second function
+#print(assign2(grudge_list_1))
+#print(assign2(grudge_list_2))
